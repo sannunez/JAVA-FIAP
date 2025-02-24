@@ -1,5 +1,5 @@
 public class NarrowingCast {
-    public static void main(StringConversor[] args) {
+    public static void main(String[] args) {
         double media = 9.8;
 
         //Casting

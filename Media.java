@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Media {
-    public static void main(StringConversor[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float n1, n2, n3;
 
