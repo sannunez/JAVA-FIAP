@@ -1,5 +1,3 @@
-package Aula04;
-
 public class UseContinue {
     public static void main(String[] args) {
         int i = 0;

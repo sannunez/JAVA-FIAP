@@ -1,5 +1,3 @@
-package Aula04;
-
 public class diZeroAMil {
     public static void main(String[] args) {
         System.out.println("Numeros pares de 0 até 1000: ");
