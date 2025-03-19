@@ -33,7 +33,7 @@ public class primeultimo {
             System.out.println("Nenhum número digitado.");
         }
 
-      
+    sc.close();
     }
 }
 

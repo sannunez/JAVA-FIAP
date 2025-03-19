@@ -20,5 +20,6 @@ public class multiPeloUltimo {
             };
             
         }
+        sc.close();
     }
 }
