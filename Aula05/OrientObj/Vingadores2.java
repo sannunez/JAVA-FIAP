@@ -1,5 +1,3 @@
-package Aula05.OrientObj;
-
 public class Vingadores2 {
    public String nome;
    public int idade;

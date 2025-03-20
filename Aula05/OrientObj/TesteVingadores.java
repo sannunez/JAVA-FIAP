@@ -1,5 +1,3 @@
-package Aula05.OrientObj;
-
 public class TesteVingadores {
     public static void main(String[] args) {
         
