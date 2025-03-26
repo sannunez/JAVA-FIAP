@@ -1,4 +1,4 @@
-public class herois {
+public class Herois {
     String nomeDeHeroi;
     String nome;
     int idade;

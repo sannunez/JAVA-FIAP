@@ -1,7 +1,4 @@
 //Criação de classe modelo
-
-package Aula05.OrientObj;
-
 public class Vingadores {
     
     // Criação dos atributos (Caracteristicas /Propriedades do meu objeto)

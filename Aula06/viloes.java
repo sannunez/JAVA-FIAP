@@ -1,4 +1,4 @@
-public class viloes {
+public class Viloes {
     String nomeDeVilao;
     int idade;
     double peso;
